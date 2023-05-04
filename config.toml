@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Kai'
+title = 'Kai:'
 theme = 'nostyleplease'
 layout = 'single'
 
